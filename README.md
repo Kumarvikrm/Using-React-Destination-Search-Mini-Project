@@ -11,6 +11,7 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-https://destination-input-search.netlify.app/
 
+
+https://destination-input-search.netlify.app/
 ![screencapture-localhost-5173-2025-03-08-17_53_35](https://github.com/user-attachments/assets/9c7499b7-10b4-478d-91c8-7a9743234637)
